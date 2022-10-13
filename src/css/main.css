@@ -9,6 +9,10 @@ body {
     font-size: 16px;
 }
 
+html {
+    scroll-behavior: smooth;
+}
+
 .nav-link {
      font-size: 14px !important;
      background: transparent !important;
@@ -121,6 +125,7 @@ body {
     text-align: center !important;
     padding-top: 300px !important;
 }
+
 
 .statistics .card-body{
     padding: 0 !important;
