@@ -100,7 +100,7 @@ body {
 }
 
 .features .card-title {
-    margin: 0 0 -3px !important;
+    margin: 0 0 -5px !important;
 }
 .cards {
     margin-top: 30px !important;
@@ -112,7 +112,7 @@ body {
 }
 
 .card-title {
-    font-size: 28px !important;
+    font-size: 22px !important;
     font-weight: 600 !important;
     color: #AD91FF !important;
 }
